@@ -1,0 +1,77 @@
+[
+    {
+        "id":0,
+        "username":"mahendra",
+        "image":"https://www.boardinfinity.com/blog/content/images/2023/02/Hardware-vs-Software.png",
+        "likes":[],
+        "comments":[]
+    },
+    {
+        "id":1,
+        "username":"santhosh",
+        "image":"https://images.ctfassets.net/63bmaubptoky/8e6EHyyhZoA2rEb_gcW_Wqp1UYa-QFOfol6A_hLTDo4/d07539f9788941b43e301c741bc144ce/what-is-software-CA-Capterra-Header.png",
+        "likes":[],
+        "comments":[]
+    },
+    {
+        "id":2,
+        "username":"santhosh",
+        "image":"https://www.computerhope.com/jargon/s/software-engineering.png",
+        "likes":[],
+        "comments":[]
+    },
+    {
+        "id":3,
+        "username":"venky",
+        "image":"https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Software_Architect.jpg",
+        "likes":[],
+        "comments":[]
+    },
+    {
+        "id":4,
+        "username":"venky",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY3l99O0YLDz58as5si8B5cxBkrcySOMQ7Vq55F84KRtKiTZyRYDRnIfLp00Jk9xOs4w&usqp=CAU",
+        "likes":[],
+        "comments":[]
+    },
+    {
+        "id":5,
+        "username":"vinay",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH0tgBB_NA7dneY4aIh3xfJAKkmiCSp8V_AA&usqp=CAU",
+        "likes":[],
+        "comments":[]
+    }, {
+        "id":6,
+        "username":"ravi",
+        "image":"https://newsimg.giznext.com/mobile/production/news/wp-content/uploads/2022/04/08235522/Smartphone-not-available-in-India.jpg",
+        "likes":[],
+        "comments":[]
+    }
+    , {
+        "id":7,
+        "username":"kishore",
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1692846363993",
+        "likes":[],
+        "comments":[]
+    }
+    , {
+        "id":8,
+        "username":"mahendra",
+        "image":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202206/realmec35_07032022_b.jpeg?VersionId=jYRHzn5_mjU1.capjZScJWKZN5imB2Oq",
+        "likes":[],
+        "comments":[]
+    }
+    , {
+        "id":9,
+        "username":"mahesh",
+        "image":"https://img.freepik.com/free-vector/thank-you-doctors-nurses_52683-36502.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699574400&semt=ais",
+        "likes":[],
+        "comments":[]
+    }, {
+        "id":10,
+        "username":"sravya",
+        "image":"https://img.freepik.com/free-vector/online-doctor-concept_23-2148524281.jpg",
+        "likes":[],
+        "comments":[]
+    }
+]

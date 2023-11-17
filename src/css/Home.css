@@ -1,0 +1,60 @@
+.Home {
+  display: flex;
+  position: relative;
+}
+.username {
+  /* position: absolute; */
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  padding-right: 50px;
+  padding-top: 30px;
+}
+
+.Home .Posts {
+  position: absolute;
+  margin: 50px 0 0px 400px;
+}
+.suggested-title {
+  margin: 0 0 40px 20px;
+}
+.story_post1 img {
+  width: 70px;
+  height: 70px;
+  border: 2px solid rgb(215, 40, 69);
+  border-radius: 50%;
+  cursor: pointer;
+}
+.story {
+  display: flex;
+  margin: 0px 0 0px 30px;
+  padding-bottom: 10px;
+}
+@media only screen and (max-width: 769px) {
+    .story {
+    margin: 100px 0 0 60px;
+    padding: 40px 0 0 0;
+  }
+  .Navbar {
+    display: none;
+  }
+  .suggested-title {
+    margin: 40px 0 40px 40px;
+  }
+  .Home .Posts {
+    position: absolute;
+    margin: 50px 0 0px 0px;
+    padding: 5px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .suggested-title {
+    margin: 0 0 40px 40px;
+  }
+  .Home .Posts {
+    position: absolute;
+    margin: 50px 0 0px 300px;
+    padding: 5px;
+  }
+}

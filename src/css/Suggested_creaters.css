@@ -1,0 +1,40 @@
+.suggested {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  /* width: 100%; */
+  margin: 10% 0 0 70%;
+  align-items: end;
+  padding: 4%;
+}
+.profiles {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: end;
+  margin: 10px 0 0 0;
+}
+.profiles img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 30px 0 0px;
+  cursor: pointer;
+}
+.profiles span {
+  font-size: medium;
+  font-weight: 600;
+  margin: 10px 50px 0 5px;
+}
+.profiles p {
+  font-size: medium;
+  font-weight: bold;
+  color: rgb(0, 123, 255);
+  margin: 10px 0 0 6px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 1400px) {
+  .suggested {
+    display: none;
+  }
+}

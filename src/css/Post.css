@@ -1,0 +1,36 @@
+.post {
+  width: 600px;
+  height: auto;
+  margin: 20px;
+}
+.comment_value {
+  /* position: absolute; */
+  /* margin-left: 0; */
+  margin-right: 5px;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 769px) {
+  .post {
+    width: 400px;
+    height: auto;
+    margin: 20px 0 0 130px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .story {
+    margin: 100px 0 0 60px;
+    padding: 40px 0 0 0;
+  }
+  .post {
+    width: 400px;
+    height: auto;
+    margin: 20px 0 0 40px;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  .post {
+    width: 400px;
+    height: auto;
+    margin: 20px 0 0 40px;
+  }
+}

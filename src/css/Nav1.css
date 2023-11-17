@@ -1,0 +1,28 @@
+.Nav1 {
+  background-color: white;
+  box-shadow: 3px 3px 7px gray;
+  position: fixed;
+  z-index: 1;
+  margin-top: 655px;
+  width: 100%;
+  padding: 15px;
+  display: none;
+}
+.Nav1 ul li {
+  list-style: none;
+}
+
+.Nav1 ul {
+  display: flex;
+  justify-content: space-between;
+  font-size: x-large;
+}
+
+.Nav1 ul li i {
+  cursor: pointer;
+}
+@media only screen and (max-width: 769px) {
+  .Nav1 {
+    display: block;
+  }
+}
